@@ -1,0 +1,29 @@
+{
+ "category": [
+        {
+          "id": 1,
+          "images": "https://via.placeholder.com/400x300.png",
+          "title": "Fruits",
+          "price":"10"
+        },
+        {
+          "id": 2,
+          "images": "https://via.placeholder.com/400x300.png",
+          "title": "vegetables",
+          "price":"15"
+        },
+        {
+          "id": 3,
+          "images": "https://via.placeholder.com/400x300.png",
+          "title": "Dry Fruits",
+          "price":"60"
+        },
+        {
+          "id": 4,
+          "images": "https://via.placeholder.com/400x300.png",
+          "title": "Diary",
+          "price":"70"
+        }
+      ]
+}
+
